@@ -1,7 +1,5 @@
 ## Hello there! I'm João Emanuel, a fullstack web developer!
 
-[![Manukie's GitHub stats](https://github-readme-stats.vercel.app/api?username=manukie)](https://github.com/manukie/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Manu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
